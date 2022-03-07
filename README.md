@@ -1,6 +1,6 @@
 - 👋 Hi my mans, how is it going? I’m @Luccambc
-- 👀 I’m interested in front-end developing and UX & Design
-- 🌱 I’m currently learning Computer Science at University and i'm learnig HTML at CodeAcademy :D 
+- 👀 I’m interested in front-end developing, UX & Design and Time Managment & Productivity
+- 🌱 Undergraduate student in Computer Science at UFG (Goiânia Federal University)
 - 📫 How to reach me -> luccamagalhaes@gmail.com
 
 <!---
