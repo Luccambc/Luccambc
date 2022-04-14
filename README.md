@@ -1,5 +1,5 @@
 - 👋 Hi my mans, how is it going? I’m @Luccambc
-- 🚀 I am interested in becoming a full-stack engineer
+- 🚀 I am interested in becoming a full-stack engineer and UX & Design
 - 📚 Undergraduate student in Computer Science at UFG (Goiânia Federal University)
 - 📫 How to reach me -> luccamagalhaes@gmail.com
 
