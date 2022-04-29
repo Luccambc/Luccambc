@@ -1,5 +1,5 @@
 ## Hey my mans! I'm Lucca Magalhães :D
-- 🚀 I am interested in becoming a full-stack engineer and UX & Designer
+- 🚀 Working hard to be the best full-stack engineer and UX & Designer in the world 
 - 📚 Undergraduate student in Computer Science at UFG (Goiânia Federal University)
 - 💞 I truly love football and Formula 1 :)
 
