@@ -1,7 +1,8 @@
 ## Hey my mans! I'm Lucca Magalhães :D
-- 🚀 Working hard to become the best full-stack engineer and UX & Designer in the world 
-- 📚 Undergraduate student in Computer Science
-- 💞 I truly love football and Formula 1 :)
+- 🚀 Working hard to become the a successful Full Stack developer
+- 🎓 Undergraduate student in Computer Science at University of Brasília (UnB)
+- 📚 I speak Portuguese and English
+- 💞 I love football/soccer and motorsports :)
 
 <div>
   <a href="https://github.com/luccambc">
