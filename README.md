@@ -1,8 +1,8 @@
 ## Hey my mans! I'm Lucca Magalhães :D
-- 🚀 Working hard to become the a successful Full Stack developer
+- 🚀 Working hard to become the a successful developer
 - 🎓 Undergraduate student in Computer Science at University of Brasília (UnB)
 - 📚 I speak Portuguese and English
-- 💞 I love football/soccer and motorsports :)
+- 💞 I love football (soccer) and motorsports :)
 
 <div>
   <a href="https://github.com/luccambc">
