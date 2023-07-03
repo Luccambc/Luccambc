@@ -1,5 +1,5 @@
 ## Hey my mans! I'm Lucca Magalhães :D
-- 🚀 Working hard to become the a successful developer
+- 🚀 Working hard to become a successful developer
 - 🎓 Undergraduate student in Computer Science at University of Brasília (UnB)
 - 📚 I speak Portuguese and English
 - 💞 I love football (soccer) and motorsports :)
