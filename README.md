@@ -1,5 +1,5 @@
 ## Hey my mans! I'm Lucca Magalhães :D
-- 🚀 Stay focused and keep grinding till your day come.
+- 🚀 Stay focused and keep working :)
 - 🎓 Undergraduate student in Computer Science at University of Brasília (UnB)
 - 📚 I can speak Portuguese and English
 
