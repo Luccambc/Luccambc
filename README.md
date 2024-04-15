@@ -1,6 +1,10 @@
 ## About me
 Hello everyone, I'm Lucca, an undergraduate student in Computer Science at the University of Brasília (UnB). Here, I share some personal projects that involve Front-End development and Data Science. If you're interested in contributing to a project, create an issue :)
 
+I'm currently a volunteer at [**CJR**][cjr]
+
+[cjr]: https://github.com/CJR-UnB
+
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
