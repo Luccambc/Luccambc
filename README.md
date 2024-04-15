@@ -1,6 +1,3 @@
-
-<img width=100% src=""/>
-
 ## About me
 Hello everyone, I'm Lucca, an undergraduate student in Computer Science at the University of Brasília (UnB). Here, I share some personal projects that involve Front-End development and Data Science. If you're interested in contributing to a project, create an issue :)
 
@@ -19,9 +16,11 @@ Hello everyone, I'm Lucca, an undergraduate student in Computer Science at the U
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luccambc&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccamagalhaes/)
+
+## Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luccambc&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Luccambc&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
