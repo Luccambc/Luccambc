@@ -1,5 +1,5 @@
 ## About me
-Hello everyone, I'm Lucca, an undergraduate student in Computer Science at the University of Brasília (UnB). Here, I share some personal projects that involve Front-End development and Data Science. 
+Hello everyone, I'm Lucca, an undergraduate student in Computer Science at the University of Brasília (UnB). Here, I share some personal projects that involve Web Development and Data Science. 
 
 I'm currently a volunteer at [**CJR**][cjr]
 
